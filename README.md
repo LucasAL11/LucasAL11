@@ -10,31 +10,21 @@
 
 
 ### about me
-- &nbsp; I'm 28y old
-- &nbsp; I'm love gaming and music 
-- &nbsp; I’m currently studyng to be a Fullstack developer
+- &nbsp; I’m currently studyng to be a Fullstack web-developer
 - &nbsp; I’m currently working on ecomerce web project with django
 - &nbsp; I’m currently learning django and front-end stuff
 
-</br>
-</br>
-</br>
-</br>
-<div align="right">
-<p style="margin-right:70px;">Gif by <a href="https://dribbble.com/guillaumekurkdjian">guillaumekurkdjian<a><p>
-</div>
 
 </br>
 
-### Language and tools
+### working and studying with this languages and tools
 
-<img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/50/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-tritone-tal-revivo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/50/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-tritone-tal-revivo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
 
 </br>
 
 ### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAl11&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAl11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Most Used Languages](https://raw.githubusercontent.com/LucasAL11/github-stats-transparent/output/generated/languages.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAl11&hide=contribs,prs)&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAl11&layout=compact&card_width=360px)](https://github.com/anuraghazra/github-readme-statst)
 
 
