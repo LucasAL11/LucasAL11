@@ -13,6 +13,8 @@
 - &nbsp; I’m currently studyng to be a Fullstack web-developer
 - &nbsp; I’m currently working on ecomerce web project with django
 - &nbsp; I’m currently learning django and front-end stuff
+- &nbsp; I’m 28y old
+- &nbsp; I’m addicted to caffeine
 
 
 </br>
