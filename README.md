@@ -23,8 +23,5 @@
 
 </br>
 
-### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAl11&hide=contribs,prs)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAl11&layout=compact&card_width=360px)](https://github.com/anuraghazra/github-readme-statst)
 
 
