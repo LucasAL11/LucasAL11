@@ -10,9 +10,8 @@
 
 
 ### about me
-- &nbsp; I’m currently studyng to be a Fullstack web-developer
-- &nbsp; I’m currently working on ecomerce web project with django
-- &nbsp; I’m currently learning django and front-end stuff
+- &nbsp; I’m currently studyng to be a C# and React
+- &nbsp; I’m currently working with C# web api and React
 - &nbsp; I’m 28y old
 - &nbsp; I’m addicted to caffeine
 
@@ -21,7 +20,7 @@
 
 ### working and studying with this languages and tools
 
-<img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/50/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-tritone-tal-revivo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
 
 </br>
 
