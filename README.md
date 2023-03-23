@@ -10,9 +10,9 @@
 
 
 ### about me
-- &nbsp; I’m currently studyng to be a C# and React
+- &nbsp; I’m currently studyng to be a C# 
 - &nbsp; I’m currently working with C# web api and React
-- &nbsp; I’m 28y old
+- &nbsp; I’m 29y old
 - &nbsp; I’m addicted to caffeine
 
 
