@@ -20,7 +20,7 @@
 
 ### working and studying with this languages and tools
 
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://avatars2.githubusercontent.com/u/14075148?s=200&v=4" width="200" height="400/>
 
 </br>
 
