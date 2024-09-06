@@ -11,8 +11,7 @@
 
 ### about me
 - &nbsp; I’m currently studyng to be a Back-end devloper
-- &nbsp; I’m currently working with C# web api.
-- &nbsp; I’m 29y old
+- &nbsp; I’m currently working with C# web api and python.
 - &nbsp; I’m addicted to caffeine
 
 
@@ -20,7 +19,7 @@
 
 ### working and studying with this languages and tools
 
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://avatars2.githubusercontent.com/u/14075148?s=200&v=4" width=50 height=50 />
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width=50 height=50 />
 
 </br>
 
