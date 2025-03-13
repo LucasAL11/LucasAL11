@@ -11,7 +11,7 @@
 
 ### about me
 - &nbsp; I’m currently studyng to be a Back-end devloper
-- &nbsp; I’m currently working with C# web api and python.
+- &nbsp; I’m currently working with C#
 
 
 </br>
